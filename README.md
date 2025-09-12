@@ -27,7 +27,7 @@ Um conversor de moedas **em tempo real** que utiliza uma API externa para consul
 - **[Chart.js](https://www.chartjs.org/)** — para renderização dos gráficos
 - **[Day.js](https://day.js.org/)** - para manipulação de dias para a API
 
-## 🚀 Como usar
+## 🚀 Acesso ao Projeto
 
 ### ✅ Versão Online
 
